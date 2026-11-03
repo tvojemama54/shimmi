@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Automatické klepání při testování hry YOLO BIRD. Funguje pouze po tvém povolení a lze ho kdykoliv vypnout.</string>
+</resources>
